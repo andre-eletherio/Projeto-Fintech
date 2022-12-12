@@ -1,0 +1,32 @@
+#useTerms {
+	text-decoration: underline;
+	color: #84E03C;
+}
+
+#useTerms:hover{
+	cursor: pointer;
+}
+
+.all-height {
+	height: 100vh;
+}
+
+#btn-email{
+	background-color: #84E03C;
+	color: #fff;
+	text-decoration: none;
+	height: 38px;
+}
+
+#img-user {
+	max-width: 80px;
+}
+
+.svg-style{
+	position: relative;
+	top: 5px;
+}
+
+.c-red{
+	color: red;
+}
